@@ -1,0 +1,23 @@
+name: 功能建议 / Feature request
+description: 说说你希望寻客帮助解决的具体问题。
+title: "[建议] "
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景 / Your use case
+      description: 你在开发哪类客户，或整理名单时遇到了什么困难？请使用示例信息。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望怎样改进 / Suggested improvement
+      description: 描述你希望看到的操作方式或结果。
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: 目前怎样处理 / Current workaround
+      description: 可选，帮助了解这个问题对日常工作的影响。

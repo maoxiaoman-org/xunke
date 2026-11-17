@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">贸小满·寻客 — 地图客户开发助手</title>
+  <desc id="description">在地图上，找到下一位客户。搜索商家、整理联系方式、保存客户名单。右侧为蓝白折叠地图与金色定位点示意。</desc>
+  <rect width="1280" height="480" rx="28" fill="#F5F8FD"/>
+  <g transform="translate(78 72) scale(.32)">
+    <rect width="256" height="256" rx="57" fill="#315BEA"/>
+    <path d="M54 86L101 69V172L54 189Z" fill="#FFF"/>
+    <path d="M108 69L151 87V189L108 172Z" fill="#DDE6FF"/>
+    <path d="M158 87L202 71V174L158 190Z" fill="#FFF"/>
+    <path d="M153 151C145 141 124 121 124 104C124 88 137 76 153 76C169 76 182 88 182 104C182 121 161 141 153 151Z" fill="#F2B664" stroke="#315BEA" stroke-width="7"/>
+    <circle cx="153" cy="104" r="9" fill="#FFF"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="184" y="132" fill="#172B4D" font-size="54" font-weight="700" letter-spacing="-2">贸小满·寻客</text>
+    <text x="80" y="221" fill="#172B4D" font-size="29" font-weight="600">在地图上，找到下一位客户。</text>
+    <text x="80" y="269" fill="#596A82" font-size="19">搜索商家，整理联系方式，保存客户名单。</text>
+    <path d="M80 317H548" stroke="#D8E2F1"/>
+    <text x="80" y="358" fill="#315BEA" font-size="16" font-weight="600">macOS / Windows</text>
+    <text x="80" y="390" fill="#77859B" font-size="14">Google Maps 商家搜索与客户名单整理</text>
+  </g>
+  <g transform="translate(700 48)">
+    <rect x="0" y="0" width="500" height="384" rx="22" fill="#E7EFFB"/>
+    <g transform="translate(28 76) rotate(-6 224 130)">
+      <path d="M0 28 144 0l152 30L440 0v248l-144 28-152-30L0 274Z" fill="#FFF" stroke="#CEDAF0" stroke-width="2" stroke-linejoin="round"/>
+      <path d="m144 0 152 30v246l-152-30Z" fill="#E0E9FB"/>
+      <path d="M45 20v245m66-258v243m72-242v246m66-233v246m89-245v246m59-257v248M0 86l440-35M0 155l440-31M0 223l440-31" stroke="#F0F4FC" stroke-width="8"/>
+      <path d="M-1 198c81-115 127 45 216-31S342 62 440 104" stroke="#C9DDF3" stroke-width="22"/>
+      <path d="M144 0v246m152-216v246" stroke="#C3D2EC" stroke-width="2"/>
+      <path d="m82 202 139-99 126 107" stroke="#315BEA" stroke-width="2" stroke-dasharray="5 7"/>
+      <circle cx="82" cy="202" r="18" fill="#315BEA" fill-opacity=".1"/>
+      <circle cx="82" cy="202" r="5" fill="#315BEA"/>
+      <circle cx="347" cy="210" r="18" fill="#315BEA" fill-opacity=".1"/>
+      <circle cx="347" cy="210" r="5" fill="#315BEA"/>
+      <circle cx="221" cy="103" r="42" fill="#315BEA" fill-opacity=".1"/>
+      <path d="M221 118s29-28 29-49a29 29 0 0 0-58 0c0 21 29 49 29 49Z" fill="#315BEA"/>
+      <circle cx="221" cy="69" r="11" fill="#F2B664"/>
+    </g>
+    <rect x="36" y="27" width="428" height="50" rx="9" fill="#FFF" stroke="#D5E0F1"/>
+    <circle cx="60" cy="50" r="7" stroke="#315BEA" stroke-width="2"/>
+    <path d="m66 56 5 5" stroke="#315BEA" stroke-width="2" stroke-linecap="round"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15">
+      <text x="89" y="57" fill="#172B4D">行业关键词</text>
+      <path d="M292 41v24" stroke="#D8E2F1"/>
+      <text x="315" y="57" fill="#596A82">国家与城市</text>
+    </g>
+    <rect x="246" y="299" width="218" height="54" rx="9" fill="#FFF" stroke="#D5E0F1"/>
+    <circle cx="274" cy="326" r="11" fill="#EAF2ED"/>
+    <path d="m269 326 4 4 7-8" stroke="#548269" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="297" y="332" fill="#344764" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14">整理成自己的名单</text>
+  </g>
+</svg>

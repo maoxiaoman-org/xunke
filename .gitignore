@@ -1,0 +1,14 @@
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+
+# Publish installers as GitHub Release assets, not Git source files
+*.dmg
+*.exe
+*.zip
+*.blockmap
