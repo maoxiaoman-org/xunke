@@ -27,16 +27,16 @@ _Demonstration data; the screenshot does not represent collection volume or cove
 
 ## Downloads
 
-**Public downloads are not available yet.** Installers will be published in [Releases](https://github.com/maoxiaoman-org/xunke/releases). macOS and Windows releases are published separately; check the files and notes for your platform.
+**v1.2.3 pre-release** is available in [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.3). Choose the installer for your platform and architecture, and check the release notes for checksums and limitations.
 
-| Platform                         | Installer | Status                |
-| -------------------------------- | --------- | --------------------- |
-| macOS · Apple silicon (M series) | `.dmg`    | Preparing for release |
-| Windows · x64                    | `.exe`    | Preparing for release |
+| Platform                         | Installer | Download |
+| -------------------------------- | --------- | -------- |
+| macOS · Apple silicon (M series) | `.dmg`    | [Download for macOS](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-mac-arm64.dmg) |
+| Windows · x64                    | `.exe`    | [Download for Windows](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-windows-x64.exe) |
 
-An Intel Mac version and a Linux installer are not currently available.
+An Intel Mac version and a Linux installer are not currently available. These installers are unsigned; the full collection flow on native Windows x64 hardware has not yet been verified.
 
-An initial free trial is planned. Collection and export require email registration and sign-in. Business records and exports use separate quotas; available balances are shown in the app.
+A free trial is available. Guests can collect businesses within the device quota; exporting requires email registration and sign-in. Business records and exports use separate quotas; available balances are shown in the app.
 
 ## Getting started
 

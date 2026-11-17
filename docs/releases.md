@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-macOS Apple 芯片版已在本地构建 1.2.3，尚未在本仓库公开发布。Windows 安装包尚未更新到这一版本，不应使用 macOS 的版本号描述它。README 中的两个下载入口均保持“准备发布”。
+macOS Apple 芯片版与 Windows x64 版已作为 [v1.2.3 测试版](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.3)发布。两个安装包都在 Release 附件中，README 提供直接下载链接。安装包未签名或公证；原生 Windows x64 上的完整采集流程仍待验证。
 
 贸小满网站的 `/xunke/` 产品页已在网站工程完成，尚未部署。因此当前 README 的网站入口指向已存在的主页。产品页上线后，可将封面链接改为 `https://maoxiaoman.cn/xunke/`，并在 GitHub 仓库 About 的 Website 字段填写该地址。
 

@@ -33,16 +33,16 @@ _演示数据，不代表搜索覆盖率或实际采集数量。_
 
 ## 下载
 
-**目前尚未开放公开下载。** 安装包开放后，会在本仓库的 [Releases](https://github.com/maoxiaoman-org/xunke/releases) 发布；macOS 和 Windows 分别更新，请以实际发布的文件与说明为准。
+**v1.2.3 测试版**已在 [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.3) 发布。请选择与系统和架构对应的安装包，并查看版本说明中的校验值与已知限制。
 
-| 平台                         | 安装格式 | 当前状态 |
-| ---------------------------- | -------- | -------- |
-| macOS · Apple 芯片（M 系列） | `.dmg`   | 准备发布 |
-| Windows · x64                | `.exe`   | 准备发布 |
+| 平台                         | 安装格式 | 下载 |
+| ---------------------------- | -------- | ---- |
+| macOS · Apple 芯片（M 系列） | `.dmg`   | [下载 macOS 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-mac-arm64.dmg) |
+| Windows · x64                | `.exe`   | [下载 Windows 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-windows-x64.exe) |
 
-Intel 芯片的 Mac 暂无可用版本。当前也不提供 Linux 安装包。
+Intel 芯片的 Mac 暂无可用版本。当前也不提供 Linux 安装包。安装包尚未签名或公证；Windows x64 的完整采集流程仍待在原生设备验证。
 
-前期提供免费试用。采集与导出需要邮箱注册并登录，采集商家条数与导出次数分别计算，具体额度以客户端账号面板为准。
+前期提供免费试用。游客可按设备额度采集商家；导出需要邮箱注册并登录。采集商家条数与导出次数分别计算，具体额度以客户端账号面板为准。
 
 ## 从搜索到客户名单
 
