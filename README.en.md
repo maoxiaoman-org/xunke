@@ -16,7 +16,7 @@ _Actual application preview with demonstration businesses, contact details, and 
 
 - Search multiple cities and industry keywords within a selected country.
 - Browse Google Maps and complete manual verification inside the main window.
-- Review business phone numbers and websites, and optionally look for publicly listed website emails.
+- Review business phone numbers and websites, and optionally look for publicly listed website emails and social links.
 - Deduplicate by Google business identifiers: collect only new businesses or update saved businesses.
 - Keep businesses, tasks, and favorites on your computer, with separate views for task results and accumulated data.
 - Filter your list and export Excel or CSV files for follow-up.
@@ -27,12 +27,14 @@ _Demonstration data; the screenshot does not represent collection volume or cove
 
 ## Downloads
 
-**v1.2.3 pre-release** is available in [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.3). Choose the installer for your platform and architecture, and check the release notes for checksums and limitations.
+**v1.2.4 pre-release** is available in [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.4). Choose the installer for your platform and architecture, and check the release notes for checksums and limitations.
 
 | Platform                         | Installer | Download |
 | -------------------------------- | --------- | -------- |
-| macOS · Apple silicon (M series) | `.dmg`    | [Download for macOS](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-mac-arm64.dmg) |
-| Windows · x64                    | `.exe`    | [Download for Windows](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-windows-x64.exe) |
+| macOS · Apple silicon (M series) | `.dmg`    | [Download for macOS](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-mac-arm64.dmg) |
+| Windows · x64                    | `.exe`    | [Download for Windows](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-windows-x64.exe) |
+
+This version reuses Electron for website browsing, reducing both installers to approximately half their previous size.
 
 An Intel Mac version and a Linux installer are not currently available. These installers are unsigned; the full collection flow on native Windows x64 hardware has not yet been verified.
 

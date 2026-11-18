@@ -18,7 +18,7 @@ _软件实际界面预览；图中的商家、联系方式和地图为演示数�
 | -------------- | ---------------------------------------------------------- |
 | 按市场寻找商家 | 选择国家与多个城市，组合多个行业关键词依次搜索             |
 | 少切换几个窗口 | Google Maps 嵌入软件主窗口，直接查看地图和处理人工验证     |
-| 整理联系方式   | 查看商家电话、官网，并按需要查找网站公开邮箱               |
+| 整理联系方式   | 查看商家电话、官网，并查找网站公开邮箱与社交渠道               |
 | 减少重复整理   | 按 Google 商家标识去重，选择“仅采集新商家”或“更新已有商家” |
 | 保留开发记录   | 商家、任务和收藏保存在当前电脑，区分本次任务与累计数据     |
 | 导出后继续跟进 | 筛选名单，导出 Excel 或 CSV；可导出指定任务或累计商家      |
@@ -33,12 +33,14 @@ _演示数据，不代表搜索覆盖率或实际采集数量。_
 
 ## 下载
 
-**v1.2.3 测试版**已在 [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.3) 发布。请选择与系统和架构对应的安装包，并查看版本说明中的校验值与已知限制。
+**v1.2.4 测试版**已在 [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.4) 发布。请选择与系统和架构对应的安装包，并查看版本说明中的校验值与已知限制。
 
 | 平台                         | 安装格式 | 下载 |
 | ---------------------------- | -------- | ---- |
-| macOS · Apple 芯片（M 系列） | `.dmg`   | [下载 macOS 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-mac-arm64.dmg) |
-| Windows · x64                | `.exe`   | [下载 Windows 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.3/maoxiaoman-xunke-1.2.3-windows-x64.exe) |
+| macOS · Apple 芯片（M 系列） | `.dmg`   | [下载 macOS 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-mac-arm64.dmg) |
+| Windows · x64                | `.exe`   | [下载 Windows 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-windows-x64.exe) |
+
+本版通过复用 Electron 浏览器缩小安装包体积，Mac 和 Windows 安装包约为上一版的一半。
 
 Intel 芯片的 Mac 暂无可用版本。当前也不提供 Linux 安装包。安装包尚未签名或公证；Windows x64 的完整采集流程仍待在原生设备验证。
 

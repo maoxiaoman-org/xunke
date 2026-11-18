@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-macOS Apple 芯片版与 Windows x64 版已作为 [v1.2.3 测试版](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.3)发布。两个安装包都在 Release 附件中，README 提供直接下载链接。安装包未签名或公证；原生 Windows x64 上的完整采集流程仍待验证。
+macOS Apple 芯片版与 Windows x64 版已作为 [v1.2.4 测试版](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.4)发布。两个安装包都在 Release 附件中，README 提供直接下载链接。DMG 为 163,261,091 字节，EXE 为 130,837,206 字节，较 v1.2.3 均减少约 50%；附件 `SHA256SUMS.txt` 提供校验值。安装包未签名或公证；原生 Windows x64 上的完整采集流程仍待验证。
 
 贸小满网站的 `/xunke/` 产品页已在网站工程完成，尚未部署。因此当前 README 的网站入口指向已存在的主页。产品页上线后，可将封面链接改为 `https://maoxiaoman.cn/xunke/`，并在 GitHub 仓库 About 的 Website 字段填写该地址。
 
