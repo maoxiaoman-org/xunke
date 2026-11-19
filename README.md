@@ -33,14 +33,14 @@ _演示数据，不代表搜索覆盖率或实际采集数量。_
 
 ## 下载
 
-**v1.2.4 测试版**已在 [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.4) 发布。请选择与系统和架构对应的安装包，并查看版本说明中的校验值与已知限制。
+**v1.2.5 测试版**已在 [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.5) 发布。请选择与系统和架构对应的安装包，并查看版本说明中的校验值与已知限制。
 
 | 平台                         | 安装格式 | 下载 |
 | ---------------------------- | -------- | ---- |
-| macOS · Apple 芯片（M 系列） | `.dmg`   | [下载 macOS 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-mac-arm64.dmg) |
-| Windows · x64                | `.exe`   | [下载 Windows 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-windows-x64.exe) |
+| macOS · Apple 芯片（M 系列） | `.dmg`   | [下载 macOS 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.5/maoxiaoman-xunke-1.2.5-mac-arm64.dmg) |
+| Windows · x64                | `.exe`   | [下载 Windows 安装包](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.5/maoxiaoman-xunke-1.2.5-windows-x64.exe) |
 
-本版通过复用 Electron 浏览器缩小安装包体积，Mac 和 Windows 安装包约为上一版的一半。
+v1.2.5 修复 Windows 窗口重复显示两排标题栏和窗口按钮的问题。安装包继续复用 Electron 浏览器，Mac 和 Windows 体积约为 v1.2.3 的一半。
 
 Intel 芯片的 Mac 暂无可用版本。当前也不提供 Linux 安装包。安装包尚未签名或公证；Windows x64 的完整采集流程仍待在原生设备验证。
 

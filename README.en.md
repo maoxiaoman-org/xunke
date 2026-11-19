@@ -27,14 +27,14 @@ _Demonstration data; the screenshot does not represent collection volume or cove
 
 ## Downloads
 
-**v1.2.4 pre-release** is available in [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.4). Choose the installer for your platform and architecture, and check the release notes for checksums and limitations.
+**v1.2.5 pre-release** is available in [Releases](https://github.com/maoxiaoman-org/xunke/releases/tag/v1.2.5). Choose the installer for your platform and architecture, and check the release notes for checksums and limitations.
 
 | Platform                         | Installer | Download |
 | -------------------------------- | --------- | -------- |
-| macOS · Apple silicon (M series) | `.dmg`    | [Download for macOS](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-mac-arm64.dmg) |
-| Windows · x64                    | `.exe`    | [Download for Windows](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.4/maoxiaoman-xunke-1.2.4-windows-x64.exe) |
+| macOS · Apple silicon (M series) | `.dmg`    | [Download for macOS](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.5/maoxiaoman-xunke-1.2.5-mac-arm64.dmg) |
+| Windows · x64                    | `.exe`    | [Download for Windows](https://github.com/maoxiaoman-org/xunke/releases/download/v1.2.5/maoxiaoman-xunke-1.2.5-windows-x64.exe) |
 
-This version reuses Electron for website browsing, reducing both installers to approximately half their previous size.
+v1.2.5 fixes duplicate title bars and window controls on Windows. Both installers continue to reuse Electron for website browsing and remain approximately half the size of v1.2.3.
 
 An Intel Mac version and a Linux installer are not currently available. These installers are unsigned; the full collection flow on native Windows x64 hardware has not yet been verified.
 
